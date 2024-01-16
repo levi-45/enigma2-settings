@@ -1,1133 +1,591 @@
 #NAME :: ciefpsettings • IPTV MIX 2 ::
-#SERVICE 1:64:4D7:0:0:0:0:0:0:0::== ★★ MIX ★★ ==
-#DESCRIPTION == ★★ MIX ★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.247box.live/hls/stream.m3u8:24!7 Box TV
-#DESCRIPTION 24!7 Box TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dminnvll.cdn.mangomolo.com/dubaione/smil%3adubaione.stream.smil/playlist.m3u8:Dubai One (1080p)
-#DESCRIPTION Dubai One (1080p)
-#SERVICE 4097:0:1:EC12:89F8:EC:0:0:0:0:http%3a//dminnvll.cdn.mangomolo.com/dubaione/smil%3adubaione.stream.smil/chunklist_b1800000.m3u8:Dubai One
-#DESCRIPTION Dubai One
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.100.11.252%3a8000/play/a02a/index.m3u8:MBC 2
-#DESCRIPTION MBC 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.100.11.252%3a8000/play/a04w/index.m3u8:MBC 2
-#DESCRIPTION MBC 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.100.11.252%3a8000/play/a028/index.m3u8:MBC 3
-#DESCRIPTION MBC 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.100.11.252%3a8000/play/a027/index.m3u8:MBC 4
-#DESCRIPTION MBC 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.100.11.252%3a8000/play/a026/index.m3u8:MBC 5
-#DESCRIPTION MBC 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.100.11.252%3a8000/play/a029/index.m3u8:MBC Action
-#DESCRIPTION MBC Action
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.100.11.252%3a8000/play/a02c/index.m3u8:MBC Bollywood
-#DESCRIPTION MBC Bollywood
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.100.11.252%3a8000/play/a02d/index.m3u8:MBC Drama
-#DESCRIPTION MBC Drama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.100.11.252%3a8000/play/a059/index.m3u8:MBC IRAQ
-#DESCRIPTION MBC IRAQ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.100.11.252%3a8000/play/a058/index.m3u8:MBC IRAQ HD
-#DESCRIPTION MBC IRAQ HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.100.11.252%3a8000/play/a02b/index.m3u8:MBC MAX
-#DESCRIPTION MBC MAX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.177.114%3a8000/play/a01e/index.m3u8:DUBAI SPORTS 1 HD
-#DESCRIPTION DUBAI SPORTS 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.177.114%3a8000/play/a01f/index.m3u8:DUBAI SPORTS 2 HD
-#DESCRIPTION DUBAI SPORTS 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.177.114%3a8000/play/a02c/index.m3u8:Kuwait Sport Plus
-#DESCRIPTION Kuwait Sport Plus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.177.114%3a8000/play/a02b/index.m3u8:Kuwait Sports
-#DESCRIPTION Kuwait Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.177.114%3a8000/play/a01d/index.m3u8:Dubai One HD
-#DESCRIPTION Dubai One HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.177.114%3a8000/play/a01b/index.m3u8:Dubai TV HD
-#DESCRIPTION Dubai TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.177.114%3a8000/play/a01r/index.m3u8:MBC MASR
-#DESCRIPTION MBC MASR
-#SERVICE 1:64:4D8:0:0:0:0:0:0:0::== ★★ France ★★ ==
-#DESCRIPTION == ★★ France ★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.137%3a8047/play/a07b/index.m3u8:6ter
-#DESCRIPTION 6ter
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.137%3a8047/play/a079/index.m3u8:Arte
-#DESCRIPTION Arte
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.137%3a8047/play/a07c/index.m3u8:Arte.Tv
-#DESCRIPTION Arte.Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.137%3a8047/play/a072/index.m3u8:France 2
-#DESCRIPTION France 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.137%3a8047/play/a075/index.m3u8:France 3
-#DESCRIPTION France 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.137%3a8047/play/a073/index.m3u8:France 4
-#DESCRIPTION France 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.137%3a8047/play/a07a/index.m3u8:France 5
-#DESCRIPTION France 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.137%3a8047/play/a07i/index.m3u8:LCP
-#DESCRIPTION LCP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.137%3a8047/play/a077/index.m3u8:M6
-#DESCRIPTION M6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.137%3a8047/play/a07f/index.m3u8:NRJ12
-#DESCRIPTION NRJ12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.137%3a8047/play/a07e/index.m3u8:TF1
-#DESCRIPTION TF1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.137%3a8047/play/a07h/index.m3u8:TFX
-#DESCRIPTION TFX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.137%3a8047/play/a07g/index.m3u8:TMC
-#DESCRIPTION TMC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.137%3a8047/play/a078/index.m3u8:W9
-#DESCRIPTION W9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.137%3a8047/play/a074/index.m3u8:franceinfo:
-#DESCRIPTION franceinfo:
-#SERVICE 1:64:4D9:0:0:0:0:0:0:0::== ★★ Scandinavia ★★ ==
-#DESCRIPTION == ★★ Scandinavia ★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02l:6`eren HD
-#DESCRIPTION 6`eren HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00x:Bedehuskanalen
-#DESCRIPTION Bedehuskanalen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03y:CT Sport HD
-#DESCRIPTION CT Sport HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a041:Comedy Central Family Hungary
-#DESCRIPTION Comedy Central Family Hungary
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a04b:Comedy Central Family Hungary.
-#DESCRIPTION Comedy Central Family Hungary.
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a042:Comedy Central Hungary
-#DESCRIPTION Comedy Central Hungary
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a04c:Comedy Central Hungary.
-#DESCRIPTION Comedy Central Hungary.
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03u:DIGI Sport 1 HD RO
-#DESCRIPTION DIGI Sport 1 HD RO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03v:DIGI Sport 2 HD RO
-#DESCRIPTION DIGI Sport 2 HD RO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00c:DR P3
-#DESCRIPTION DR P3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00b:DR Ramasjang
-#DESCRIPTION DR Ramasjang
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00f:DR1 HD
-#DESCRIPTION DR1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00d:DR1 HD
-#DESCRIPTION DR1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00a:DR2 HD
-#DESCRIPTION DR2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00e:DR2 HD
-#DESCRIPTION DR2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a007:DW English
-#DESCRIPTION DW English
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01b:Eurosport 1 HD (D)
-#DESCRIPTION Eurosport 1 HD (D)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01c:Eurosport 1 HD (F)
-#DESCRIPTION Eurosport 1 HD (F)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01e:Eurosport 1 HD (N)
-#DESCRIPTION Eurosport 1 HD (N)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01f:Eurosport 1 HD (S)
-#DESCRIPTION Eurosport 1 HD (S)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01d:Eurosport 2 HD (D)
-#DESCRIPTION Eurosport 2 HD (D)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01h:Eurosport 2 HD (S/F)
-#DESCRIPTION Eurosport 2 HD (S/F)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01g:Eurosport Norge HD
-#DESCRIPTION Eurosport Norge HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a037:Godare
-#DESCRIPTION Godare
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00v:Kanal 10 Norge HD
-#DESCRIPTION Kanal 10 Norge HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02j:Kanal 5 HD (D)
-#DESCRIPTION Kanal 5 HD (D)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02r:Kanal 5 HD (D) syn
-#DESCRIPTION Kanal 5 HD (D) syn
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02m:Kanal 5 HD (S)
-#DESCRIPTION Kanal 5 HD (S)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02v:Kanal 5 HD (S) - Text
-#DESCRIPTION Kanal 5 HD (S) - Text
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02s:Kanal 5 HD syntolkning
-#DESCRIPTION Kanal 5 HD syntolkning
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02q:Kanal 5 Undertekster
-#DESCRIPTION Kanal 5 Undertekster
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02n:Kanal 9 HD
-#DESCRIPTION Kanal 9 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02u:Kanal 9 HD - Text
-#DESCRIPTION Kanal 9 HD - Text
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02t:Kanal 9 HD syntolkning
-#DESCRIPTION Kanal 9 HD syntolkning
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02z:Kunskapskanalen HD
-#DESCRIPTION Kunskapskanalen HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03c:Kunskapskanalen HD - Talande Text
-#DESCRIPTION Kunskapskanalen HD - Talande Text
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a036:Kunskapskanalen HD - Text
-#DESCRIPTION Kunskapskanalen HD - Text
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02i:MAX HD
-#DESCRIPTION MAX HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02o:MAX HD - Tekst
-#DESCRIPTION MAX HD - Tekst
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a046:MTV 00s
-#DESCRIPTION MTV 00s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a049:MTV 80s
-#DESCRIPTION MTV 80s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a04a:MTV 90s
-#DESCRIPTION MTV 90s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a045:MTV Europe
-#DESCRIPTION MTV Europe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a047:MTV Hits
-#DESCRIPTION MTV Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01v:NRK Super / NRK3 HD
-#DESCRIPTION NRK Super / NRK3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a028:NRK Super / NRK3 lydtekst
-#DESCRIPTION NRK Super / NRK3 lydtekst
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a025:NRK Tegnspråk
-#DESCRIPTION NRK Tegnspråk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01t:NRK1 HD
-#DESCRIPTION NRK1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a024:NRK1 Innlandet
-#DESCRIPTION NRK1 Innlandet
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01y:NRK1 Midtnytt
-#DESCRIPTION NRK1 Midtnytt
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01z:NRK1 Møre og Romsdal
-#DESCRIPTION NRK1 Møre og Romsdal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01x:NRK1 Nordland
-#DESCRIPTION NRK1 Nordland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01w:NRK1 Nordnytt
-#DESCRIPTION NRK1 Nordnytt
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a021:NRK1 Rogaland
-#DESCRIPTION NRK1 Rogaland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a022:NRK1 Sørlandet
-#DESCRIPTION NRK1 Sørlandet
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a023:NRK1 Vestfold og Telemark
-#DESCRIPTION NRK1 Vestfold og Telemark
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a020:NRK1 Vestlandsrevyen
-#DESCRIPTION NRK1 Vestlandsrevyen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a026:NRK1 lydtekst
-#DESCRIPTION NRK1 lydtekst
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01u:NRK2 HD
-#DESCRIPTION NRK2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a027:NRK2 lydtekst
-#DESCRIPTION NRK2 lydtekst
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a044:Nickelodeon Europe
-#DESCRIPTION Nickelodeon Europe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a04d:Nickelodeon Europe.
-#DESCRIPTION Nickelodeon Europe.
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a043:Nicktoons
-#DESCRIPTION Nicktoons
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03z:Nova Sport 1 HD
-#DESCRIPTION Nova Sport 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a040:Paramount Channel Hungary
-#DESCRIPTION Paramount Channel Hungary
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00q:RUV
-#DESCRIPTION RUV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00r:RUV Ras 1
-#DESCRIPTION RUV Ras 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00s:RUV Ras 2
-#DESCRIPTION RUV Ras 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00t:Rikstoto Direkte HD
-#DESCRIPTION Rikstoto Direkte HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02y:SVT Barn HD
-#DESCRIPTION SVT Barn HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03d:SVT Barn HD - Talande Text
-#DESCRIPTION SVT Barn HD - Talande Text
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03b:SVT Barn/SVT24 HD - Talande Text
-#DESCRIPTION SVT Barn/SVT24 HD - Talande Text
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a035:SVT Barn/SVT24 HD - Text
-#DESCRIPTION SVT Barn/SVT24 HD - Text
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02w:SVT1 HD
-#DESCRIPTION SVT1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a039:SVT1 HD - Talande Text
-#DESCRIPTION SVT1 HD - Talande Text
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a033:SVT1 HD - Text
-#DESCRIPTION SVT1 HD - Text
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a030:SVT1 Norrbotten
-#DESCRIPTION SVT1 Norrbotten
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a031:SVT1 Västerbotten
-#DESCRIPTION SVT1 Västerbotten
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a032:SVT1 Västernorrland
-#DESCRIPTION SVT1 Västernorrland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02x:SVT2 HD
-#DESCRIPTION SVT2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03a:SVT2 HD - Talande Text
-#DESCRIPTION SVT2 HD - Talande Text
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a034:SVT2 HD - Text
-#DESCRIPTION SVT2 HD - Text
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a038:SVT24 HD
-#DESCRIPTION SVT24 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03e:SVT24 HD - Talande Text
-#DESCRIPTION SVT24 HD - Talande Text
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a009:Sport Live
-#DESCRIPTION Sport Live
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03t:Sport2 HD
-#DESCRIPTION Sport2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00o:TV 2 Charlie HD
-#DESCRIPTION TV 2 Charlie HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02e:TV 2 Direkte HD
-#DESCRIPTION TV 2 Direkte HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02h:TV 2 Direkte HD - Tekst
-#DESCRIPTION TV 2 Direkte HD - Tekst
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00k:TV 2 Echo HD
-#DESCRIPTION TV 2 Echo HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00m:TV 2 Fri HD
-#DESCRIPTION TV 2 Fri HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00l:TV 2 HD (D)
-#DESCRIPTION TV 2 HD (D)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02d:TV 2 Livsstil HD
-#DESCRIPTION TV 2 Livsstil HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00p:TV 2 News HD
-#DESCRIPTION TV 2 News HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02g:TV 2 Nyheter HD
-#DESCRIPTION TV 2 Nyheter HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00j:TV 2 SPORT HD
-#DESCRIPTION TV 2 SPORT HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00n:TV 2 SPORT X
-#DESCRIPTION TV 2 SPORT X
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02b:TV 2 Sport 1 HD
-#DESCRIPTION TV 2 Sport 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02f:TV 2 Sport 2 HD
-#DESCRIPTION TV 2 Sport 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02a:TV 2 Sport Premium 2 HD
-#DESCRIPTION TV 2 Sport Premium 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a029:TV 2 Sport Premium HD
-#DESCRIPTION TV 2 Sport Premium HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02c:TV 2 Zebra HD
-#DESCRIPTION TV 2 Zebra HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03n:TV10 HD
-#DESCRIPTION TV10 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03i:TV10 HD
-#DESCRIPTION TV10 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01q:TV10 HD
-#DESCRIPTION TV10 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01l:TV10 HD
-#DESCRIPTION TV10 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03r:TV2 HD
-#DESCRIPTION TV2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03o:TV3 HD (S)
-#DESCRIPTION TV3 HD (S)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03g:TV3 HD (S)
-#DESCRIPTION TV3 HD (S)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01r:TV3 HD (S)
-#DESCRIPTION TV3 HD (S)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01j:TV3 HD (S)
-#DESCRIPTION TV3 HD (S)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03p:TV3 HD (S) - Text
-#DESCRIPTION TV3 HD (S) - Text
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01s:TV3 HD (S) - Text
-#DESCRIPTION TV3 HD (S) - Text
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03k:TV3+ HD (N)
-#DESCRIPTION TV3+ HD (N)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01n:TV3+ HD (N)
-#DESCRIPTION TV3+ HD (N)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03m:TV8 HD
-#DESCRIPTION TV8 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03h:TV8 HD
-#DESCRIPTION TV8 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01p:TV8 HD
-#DESCRIPTION TV8 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01k:TV8 HD
-#DESCRIPTION TV8 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02k:TVNorge HD
-#DESCRIPTION TVNorge HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a02p:TVNorge HD - Tekst
-#DESCRIPTION TVNorge HD - Tekst
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03l:V sport extra HD
-#DESCRIPTION V sport extra HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01o:V sport extra HD
-#DESCRIPTION V sport extra HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03f:V sport motor HD
-#DESCRIPTION V sport motor HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01i:V sport motor HD
-#DESCRIPTION V sport motor HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a03j:V sport premium HD (S)
-#DESCRIPTION V sport premium HD (S)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a01m:V sport premium HD (S)
-#DESCRIPTION V sport premium HD (S)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00w:Vision Sverige
-#DESCRIPTION Vision Sverige
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a00u:Visjon Norge HD
-#DESCRIPTION Visjon Norge HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a048:club MTV
-#DESCRIPTION club MTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.15%3a8000/play/a008:dk4
-#DESCRIPTION dk4
-#SERVICE 1:64:4DA:0:0:0:0:0:0:0::== ★★ Italy ★★ ==
-#DESCRIPTION == ★★ Italy ★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08c/index.m3u8:20Mediaset HD
-#DESCRIPTION 20Mediaset HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08p/index.m3u8:27Twentyseven HD
-#DESCRIPTION 27Twentyseven HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08h/index.m3u8:Boing HD
-#DESCRIPTION Boing HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a085/index.m3u8:Camera Deputati
-#DESCRIPTION Camera Deputati
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08e/index.m3u8:Canale5 HD
-#DESCRIPTION Canale5 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08n/index.m3u8:Cartoonito HD
-#DESCRIPTION Cartoonito HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a089/index.m3u8:Cine34 HD
-#DESCRIPTION Cine34 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a09b/index.m3u8:DMAX Italy
-#DESCRIPTION DMAX Italy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08o/index.m3u8:Focus HD
-#DESCRIPTION Focus HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a09c/index.m3u8:Food Network Italy
-#DESCRIPTION Food Network Italy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a09e/index.m3u8:Frisbee
-#DESCRIPTION Frisbee
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a09r/index.m3u8:Giallo
-#DESCRIPTION Giallo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a09u/index.m3u8:HGTV HD
-#DESCRIPTION HGTV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a09w/index.m3u8:HGTV Italy
-#DESCRIPTION HGTV Italy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08g/index.m3u8:Iris HD
-#DESCRIPTION Iris HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08d/index.m3u8:Italia1 HD
-#DESCRIPTION Italia1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a09d/index.m3u8:K2
-#DESCRIPTION K2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a09y/index.m3u8:LA7 HD
-#DESCRIPTION LA7 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a09x/index.m3u8:LA7d HD
-#DESCRIPTION LA7d HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08i/index.m3u8:La5 HD
-#DESCRIPTION La5 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a097/index.m3u8:L’Ora della Venezia Giulia
-#DESCRIPTION L’Ora della Venezia Giulia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08k/index.m3u8:Mediaset Extra HD
-#DESCRIPTION Mediaset Extra HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08l/index.m3u8:Mediaset Italia2 HD
-#DESCRIPTION Mediaset Italia2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a09q/index.m3u8:MotorTrend
-#DESCRIPTION MotorTrend
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a095/index.m3u8:No Name Radio
-#DESCRIPTION No Name Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a09s/index.m3u8:Nove
-#DESCRIPTION Nove
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08b/index.m3u8:RADIO MONTE CARLO
-#DESCRIPTION RADIO MONTE CARLO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a0a3/index.m3u8:RADIO SUBASIO
-#DESCRIPTION RADIO SUBASIO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a0a2/index.m3u8:Radio 105
-#DESCRIPTION Radio 105
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a0a0/index.m3u8:Radio Monte Carlo
-#DESCRIPTION Radio Monte Carlo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a09z/index.m3u8:Radio R101
-#DESCRIPTION Radio R101
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a0a4/index.m3u8:Radiolina
-#DESCRIPTION Radiolina
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08q/index.m3u8:Rai 1 HD
-#DESCRIPTION Rai 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08r/index.m3u8:Rai 2 HD
-#DESCRIPTION Rai 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08s/index.m3u8:Rai 3 HD
-#DESCRIPTION Rai 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07s/index.m3u8:Rai 3 TGR Abruzzo
-#DESCRIPTION Rai 3 TGR Abruzzo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07e/index.m3u8:Rai 3 TGR Basilicata
-#DESCRIPTION Rai 3 TGR Basilicata
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07f/index.m3u8:Rai 3 TGR Calabria
-#DESCRIPTION Rai 3 TGR Calabria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07u/index.m3u8:Rai 3 TGR Campania
-#DESCRIPTION Rai 3 TGR Campania
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07n/index.m3u8:Rai 3 TGR Emilia-Romagna
-#DESCRIPTION Rai 3 TGR Emilia-Romagna
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07v/index.m3u8:Rai 3 TGR Friuli Venezia Giulia
-#DESCRIPTION Rai 3 TGR Friuli Venezia Giulia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07w/index.m3u8:Rai 3 TGR Furlanija Julijska Krajina
-#DESCRIPTION Rai 3 TGR Furlanija Julijska Krajina
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07z/index.m3u8:Rai 3 TGR Lazio
-#DESCRIPTION Rai 3 TGR Lazio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07h/index.m3u8:Rai 3 TGR Liguria
-#DESCRIPTION Rai 3 TGR Liguria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07m/index.m3u8:Rai 3 TGR Lombardia
-#DESCRIPTION Rai 3 TGR Lombardia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07k/index.m3u8:Rai 3 TGR Marche
-#DESCRIPTION Rai 3 TGR Marche
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07t/index.m3u8:Rai 3 TGR Molise
-#DESCRIPTION Rai 3 TGR Molise
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07l/index.m3u8:Rai 3 TGR Piemonte
-#DESCRIPTION Rai 3 TGR Piemonte
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07d/index.m3u8:Rai 3 TGR Puglia
-#DESCRIPTION Rai 3 TGR Puglia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07r/index.m3u8:Rai 3 TGR Sardegna
-#DESCRIPTION Rai 3 TGR Sardegna
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07g/index.m3u8:Rai 3 TGR Sicilia
-#DESCRIPTION Rai 3 TGR Sicilia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07p/index.m3u8:Rai 3 TGR Südtirol HD
-#DESCRIPTION Rai 3 TGR Südtirol HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07i/index.m3u8:Rai 3 TGR Toscana
-#DESCRIPTION Rai 3 TGR Toscana
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07y/index.m3u8:Rai 3 TGR Trentino Alto Adige Bolzano
-#DESCRIPTION Rai 3 TGR Trentino Alto Adige Bolzano
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07x/index.m3u8:Rai 3 TGR Trentino Alto Adige Trento
-#DESCRIPTION Rai 3 TGR Trentino Alto Adige Trento
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07j/index.m3u8:Rai 3 TGR Umbria
-#DESCRIPTION Rai 3 TGR Umbria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07q/index.m3u8:Rai 3 TGR Valle d'Aosta
-#DESCRIPTION Rai 3 TGR Valle d'Aosta
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07o/index.m3u8:Rai 3 TGR Veneto
-#DESCRIPTION Rai 3 TGR Veneto
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08t/index.m3u8:Rai 4 HD
-#DESCRIPTION Rai 4 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08v/index.m3u8:Rai 4K
-#DESCRIPTION Rai 4K
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07b/index.m3u8:Rai 5 HD
-#DESCRIPTION Rai 5 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a090/index.m3u8:Rai GR Parlamento
-#DESCRIPTION Rai GR Parlamento
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a079/index.m3u8:Rai Gulp HD
-#DESCRIPTION Rai Gulp HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a091/index.m3u8:Rai Isoradio
-#DESCRIPTION Rai Isoradio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08u/index.m3u8:Rai Movie HD
-#DESCRIPTION Rai Movie HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a078/index.m3u8:Rai News 24 HD
-#DESCRIPTION Rai News 24 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a088/index.m3u8:Rai Premium HD
-#DESCRIPTION Rai Premium HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08w/index.m3u8:Rai Radio 1
-#DESCRIPTION Rai Radio 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08x/index.m3u8:Rai Radio 2
-#DESCRIPTION Rai Radio 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08y/index.m3u8:Rai Radio 3
-#DESCRIPTION Rai Radio 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a094/index.m3u8:Rai Radio Kids
-#DESCRIPTION Rai Radio Kids
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a093/index.m3u8:Rai Radio Live Napoli
-#DESCRIPTION Rai Radio Live Napoli
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a099/index.m3u8:Rai Radio Slovenia
-#DESCRIPTION Rai Radio Slovenia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a092/index.m3u8:Rai Radio Techete'
-#DESCRIPTION Rai Radio Techete'
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a096/index.m3u8:Rai Radio Tutta Italiana
-#DESCRIPTION Rai Radio Tutta Italiana
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a098/index.m3u8:Rai Radio1 Sport
-#DESCRIPTION Rai Radio1 Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08z/index.m3u8:Rai Radio3 Classica
-#DESCRIPTION Rai Radio3 Classica
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a087/index.m3u8:Rai Scuola HD
-#DESCRIPTION Rai Scuola HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07a/index.m3u8:Rai Sport HD
-#DESCRIPTION Rai Sport HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a084/index.m3u8:Rai Storia HD
-#DESCRIPTION Rai Storia HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a083/index.m3u8:Rai YoYo HD
-#DESCRIPTION Rai YoYo HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a09a/index.m3u8:Realtime Italy
-#DESCRIPTION Realtime Italy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08f/index.m3u8:Rete4 HD
-#DESCRIPTION Rete4 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a086/index.m3u8:Senato
-#DESCRIPTION Senato
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08j/index.m3u8:TGCOM24 HD
-#DESCRIPTION TGCOM24 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08m/index.m3u8:TOPcrime HD
-#DESCRIPTION TOPcrime HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a0a8/index.m3u8:TV8 HD
-#DESCRIPTION TV8 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a07c/index.m3u8:UNINETTUNO UNIVERSITY TV
-#DESCRIPTION UNINETTUNO UNIVERSITY TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a08a/index.m3u8:VIRGIN RADIO
-#DESCRIPTION VIRGIN RADIO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a0a1/index.m3u8:Virgin radio
-#DESCRIPTION Virgin radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a09l/index.m3u8:WarnerTV Italy HD
-#DESCRIPTION WarnerTV Italy HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.179%3a8018/play/a0a5/index.m3u8:cielo HD
-#DESCRIPTION cielo HD
-#SERVICE 1:64:4DB:0:0:0:0:0:0:0::== ★★ Mix 1 ★★ ==
-#DESCRIPTION == ★★ Mix 1 ★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00k/index.m3u8:13-Sinart
-#DESCRIPTION 13-Sinart
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02z/index.m3u8:A&E
-#DESCRIPTION A&E
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01u/index.m3u8:A&E HD
-#DESCRIPTION A&E HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01f/index.m3u8:AMC
-#DESCRIPTION AMC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01v/index.m3u8:AMC HD
-#DESCRIPTION AMC HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01d/index.m3u8:AXN
-#DESCRIPTION AXN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a021/index.m3u8:AZ click HD
-#DESCRIPTION AZ click HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a032/index.m3u8:Animal Planet
-#DESCRIPTION Animal Planet
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01r/index.m3u8:Animal Planet HD
-#DESCRIPTION Animal Planet HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a004/index.m3u8:Antena 3
-#DESCRIPTION Antena 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a014/index.m3u8:Azcorazon
-#DESCRIPTION Azcorazon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02v/index.m3u8:Azmundo
-#DESCRIPTION Azmundo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01h/index.m3u8:BBC World
-#DESCRIPTION BBC World
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a029/index.m3u8:Baby First
-#DESCRIPTION Baby First
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a002/index.m3u8:Baby TV
-#DESCRIPTION Baby TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00o/index.m3u8:CARTOON NT HD
-#DESCRIPTION CARTOON NT HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02t/index.m3u8:CDN37 - RD
-#DESCRIPTION CDN37 - RD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03b/index.m3u8:CINECANAL HD
-#DESCRIPTION CINECANAL HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00c/index.m3u8:CNN Internacional
-#DESCRIPTION CNN Internacional
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01g/index.m3u8:CNNE
-#DESCRIPTION CNNE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a009/index.m3u8:Canal 10 - ESA
-#DESCRIPTION Canal 10 - ESA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a04d/index.m3u8:Canal 11 - GUA
-#DESCRIPTION Canal 11 - GUA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a059/index.m3u8:Canal 12 - ESA
-#DESCRIPTION Canal 12 - ESA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a04c/index.m3u8:Canal 13-GUA
-#DESCRIPTION Canal 13-GUA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a04l/index.m3u8:Canal 2 - ESA
-#DESCRIPTION Canal 2 - ESA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a04j/index.m3u8:Canal 3 - GUA
-#DESCRIPTION Canal 3 - GUA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a056/index.m3u8:Canal 4 HD ESA
-#DESCRIPTION Canal 4 HD ESA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a04e/index.m3u8:Canal 6 - ESA
-#DESCRIPTION Canal 6 - ESA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a04i/index.m3u8:Canal 7 - GUA
-#DESCRIPTION Canal 7 - GUA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a04h/index.m3u8:Canal Antigua - GUA
-#DESCRIPTION Canal Antigua - GUA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a05a/index.m3u8:Canal Azteca - GUA
-#DESCRIPTION Canal Azteca - GUA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00x/index.m3u8:Cartoon Network
-#DESCRIPTION Cartoon Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00z/index.m3u8:Cartoonito
-#DESCRIPTION Cartoonito
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03k/index.m3u8:Comedy Central HD
-#DESCRIPTION Comedy Central HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00m/index.m3u8:DHE
-#DESCRIPTION DHE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a020/index.m3u8:DHE HD
-#DESCRIPTION DHE HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03h/index.m3u8:DISC THEATHER HD
-#DESCRIPTION DISC THEATHER HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a031/index.m3u8:Discovery Channel
-#DESCRIPTION Discovery Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a041/index.m3u8:Discovery Channel HD
-#DESCRIPTION Discovery Channel HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a045/index.m3u8:Discovery ID HD
-#DESCRIPTION Discovery ID HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00f/index.m3u8:Discovery Kids HD
-#DESCRIPTION Discovery Kids HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a007/index.m3u8:Discovery Science
-#DESCRIPTION Discovery Science
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a042/index.m3u8:Discovery World HD
-#DESCRIPTION Discovery World HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a010/index.m3u8:Disney JR
-#DESCRIPTION Disney JR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02y/index.m3u8:E!
-#DESCRIPTION E!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01s/index.m3u8:E! Entertairment HD
-#DESCRIPTION E! Entertairment HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a035/index.m3u8:ESPN
-#DESCRIPTION ESPN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01l/index.m3u8:ESPN +
-#DESCRIPTION ESPN +
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a036/index.m3u8:ESPN 2
-#DESCRIPTION ESPN 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03w/index.m3u8:ESPN 2 HD
-#DESCRIPTION ESPN 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02g/index.m3u8:ESPN 3
-#DESCRIPTION ESPN 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03v/index.m3u8:ESPN 3 HD
-#DESCRIPTION ESPN 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03u/index.m3u8:ESPN HD
-#DESCRIPTION ESPN HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a050/index.m3u8:ESPN PLUS HD
-#DESCRIPTION ESPN PLUS HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02c/index.m3u8:EURO Channel
-#DESCRIPTION EURO Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01j/index.m3u8:EWTN
-#DESCRIPTION EWTN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02e/index.m3u8:El Gourmet
-#DESCRIPTION El Gourmet
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01y/index.m3u8:Europa HD
-#DESCRIPTION Europa HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a037/index.m3u8:Exa TV
-#DESCRIPTION Exa TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03f/index.m3u8:FOX SPORTS 2 HD
-#DESCRIPTION FOX SPORTS 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03x/index.m3u8:FOX SPORTS 3 HD
-#DESCRIPTION FOX SPORTS 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02h/index.m3u8:FOX Sports 2
-#DESCRIPTION FOX Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03t/index.m3u8:FUTV HD CR
-#DESCRIPTION FUTV HD CR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02a/index.m3u8:FX
-#DESCRIPTION FX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01x/index.m3u8:FX HD
-#DESCRIPTION FX HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00l/index.m3u8:Film & Arts
-#DESCRIPTION Film & Arts
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01t/index.m3u8:Film & arts HD
-#DESCRIPTION Film & arts HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01a/index.m3u8:Fox Sport 3
-#DESCRIPTION Fox Sport 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02m/index.m3u8:Golden
-#DESCRIPTION Golden
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00h/index.m3u8:Golden Premiere 2 HD
-#DESCRIPTION Golden Premiere 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00g/index.m3u8:Golden Premiere HD
-#DESCRIPTION Golden Premiere HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00b/index.m3u8:Golf Channel
-#DESCRIPTION Golf Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a023/index.m3u8:Golf Channel HD
-#DESCRIPTION Golf Channel HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00w/index.m3u8:Guatevision - GUA
-#DESCRIPTION Guatevision - GUA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02d/index.m3u8:H2
-#DESCRIPTION H2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00s/index.m3u8:HBO Family HD
-#DESCRIPTION HBO Family HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00p/index.m3u8:HBO HD
-#DESCRIPTION HBO HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00r/index.m3u8:HBO Plus HD
-#DESCRIPTION HBO Plus HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00t/index.m3u8:HBO XTREME
-#DESCRIPTION HBO XTREME
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00q/index.m3u8:HBO2 HD
-#DESCRIPTION HBO2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03j/index.m3u8:HOLA! TV HD
-#DESCRIPTION HOLA! TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02l/index.m3u8:HTV
-#DESCRIPTION HTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a033/index.m3u8:History Channel
-#DESCRIPTION History Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01k/index.m3u8:History HD
-#DESCRIPTION History HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a008/index.m3u8:Hola!TV
-#DESCRIPTION Hola!TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03i/index.m3u8:Home & Health HD
-#DESCRIPTION Home & Health HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a006/index.m3u8:Home Garden Latino
-#DESCRIPTION Home Garden Latino
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a019/index.m3u8:LIFE TIME
-#DESCRIPTION LIFE TIME
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02j/index.m3u8:Latin America Sport
-#DESCRIPTION Latin America Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a028/index.m3u8:MASTV - PAN
-#DESCRIPTION MASTV - PAN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02k/index.m3u8:MTV 00s
-#DESCRIPTION MTV 00s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03m/index.m3u8:MTV 00s HD
-#DESCRIPTION MTV 00s HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01c/index.m3u8:MTV 80s
-#DESCRIPTION MTV 80s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01m/index.m3u8:MTV HD
+#SERVICE 1:64:4ED:0:0:0:0:0:0:0::== ★★ IPTV SK/CZ ★★ ==
+#DESCRIPTION == ★★ IPTV SK/CZ ★★ ==
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.geniusnet.sk%3a8081/localltv/pl.m3u8:LocAll
+#DESCRIPTION LocAll
+#SERVICE 4097:0:1:9E0F:9AE5:EC:0:0:0:0:https%3a//nn.geo.joj.sk/live/hls/joj-720.m3u8:JOJ
+#DESCRIPTION JOJ
+#SERVICE 4097:0:1:EDF3:9AC8:EC:0:0:0:0:https%3a//nn.geo.joj.sk/live/hls/family-540.m3u8:JOJ Family
+#DESCRIPTION JOJ Family
+#SERVICE 4097:0:1:8DE6:6B0B:EC:0:0:0:0:https%3a//nn.geo.joj.sk/live/hls/jojplus-540.m3u8:JOJ Plus
+#DESCRIPTION JOJ Plus
+#SERVICE 4097:0:1:DAEA:2DCD:EC:0:0:0:0:https%3a//nn.geo.joj.sk/live/hls/wau-540.m3u8:JOJ Wau
+#DESCRIPTION JOJ Wau
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.polar.cz%3a1935/prahatv/prahatvlive-1/playlist.m3u8:Praha TV HD
+#DESCRIPTION Praha TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media1.tvnatura.cz/live_out/1/live.m3u8:Natura TV (CZ)
+#DESCRIPTION Natura TV (CZ)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.streaming.sk/tvruzinov/stream/playlist.m3u8:TV Ruzinov
+#DESCRIPTION TV Ruzinov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.74.145.11%3a1935/tv8/mp4%3atv8.stream_576p/playlist.m3u8:TV Osem (SK)
+#DESCRIPTION TV Osem (SK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.media-planet.sk%3a80/live/novezamky/BratuMarian.m3u8:TV Nove Zamky
+#DESCRIPTION TV Nove Zamky
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//s1.media-planet.sk%3a80/live/turzovka:Turzovská Televízia (TVT)
+#DESCRIPTION Turzovská Televízia (TVT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//s1.media-planet.sk%3a80/live/bardejov1:Bardejovská Televízia (BTV)
+#DESCRIPTION Bardejovská Televízia (BTV)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//s1.media-planet.sk%3a80/live/reduta:Televízia Reduta (TVR)
+#DESCRIPTION Televízia Reduta (TVR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//s1.media-planet.sk%3a80/live/novezamky:Televízia Nové Zámky (NZTV)
+#DESCRIPTION Televízia Nové Zámky (NZTV)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/kostol-online/eslovaco3/playlist.m3u8:TV MANA (SK)
+#DESCRIPTION TV MANA (SK)
+#SERVICE 4097:0:1:C6D3:5CD3:EC:0:0:0:0:https%3a//nn.geo.joj.sk/hls/rik-540.m3u8:RIK
+#DESCRIPTION RIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8:TV Elektrika
+#DESCRIPTION TV Elektrika
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.tvdoktor.sk/high/index.m3u8:TV Doktor
+#DESCRIPTION TV Doktor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//youtu.be/T_rNe9sTLi8:TV Nitricka (YT)
+#DESCRIPTION TV Nitricka (YT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fs3.kabelko.sk/9011/tracks-v1a1/mono.m3u8?token=btv:TV Bardejov
+#DESCRIPTION TV Bardejov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//youtu.be/l9gZ3uwKM1M:TV Morava (YT)
+#DESCRIPTION TV Morava (YT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//youtu.be/eiwI9zoAjYE:TV Zemplin (YT)
+#DESCRIPTION TV Zemplin (YT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8:TV Brno
+#DESCRIPTION TV Brno
+#SERVICE 4097:0:1:14D:3:3:1BC:0:0:0:http%3a//live.tvlux.sk%3a1935/lux/lux.stream/playlist.m3u8:TV Lux
+#DESCRIPTION TV Lux
+#SERVICE 4097:0:1:14D:2:2:1BC:0:0:0:http%3a//lb.streaming.sk/senzi/stream/HasBahCa.m3u8:Senzi
+#DESCRIPTION Senzi
+#SERVICE 4097:0:1:14D:6:6:1BC:0:0:0:http%3a//5ca49f2417d90.streamlock.net/live/dolnykubin1/HasBahCa.m3u8:TV Dolny Kubin
+#DESCRIPTION TV Dolny Kubin
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:http%3a//slovanet-livestream.ceelabs.com%3a1935/live/mpegts.stream_tvpoprad/playlist.m3u8:TV Poprad
+#DESCRIPTION TV Poprad
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//ottst05.flexitv.sk/2827-tv-pc.m3u8:TV Raj
+#DESCRIPTION TV Raj
+#SERVICE 4097:0:1:14D:2:2:1BC:0:0:0:http%3a//s1.media-planet.sk/live/reduta/HasBahCa.m3u8:TV Reduta
+#DESCRIPTION TV Reduta
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:http%3a//lb.streaming.sk/tvruzinov/stream/playlist.m3u8:TV Ružinov
+#DESCRIPTION TV Ružinov
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//stream.polar.cz/polar/polarlive-1/playlist.m3u8:Polar TV
+#DESCRIPTION Polar TV
+#SERVICE 4097:0:1:491:F4D:4D90:1010101:0:0:0:https%3a//stream.polar.cz/polar2/polarlive2-1/playlist.m3u8:Polar2 TV
+#DESCRIPTION Polar2 TV
+#SERVICE 4097:0:1:1466:1E49:4960:1010101:0:0:0:https%3a//5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8:Televízia Močenok
+#DESCRIPTION Televízia Močenok
+#SERVICE 4097:0:1:46EF:4C61:61E9:1010101:0:0:0:https%3a//videostudioris.sk/hls/tvb.m3u8:TV Brezová
+#DESCRIPTION TV Brezová
+#SERVICE 4097:0:1:FC13:F8CD:CD13:1010101:0:0:0:https%3a//ythls.onrender.com/channel/UCdsKjmExW-0pFskKYbjNIQg.m3u8:TV Hronka (1080p) [Not 24/7]
+#DESCRIPTION TV Hronka (1080p) [Not 24/7]
+#SERVICE 4097:0:1:5B5B:5EBF:BF5E:1010101:0:0:0:http%3a//95.105.255.137%3a1935/tvturiec/tvliptov.stream/playlist.m3u8:TV Liptov
+#DESCRIPTION TV Liptov
+#SERVICE 4097:0:1:1CE9:12CC:CCE9:1010101:0:0:0:https%3a//videostudioris.sk/hls/tvm.m3u8:TV Myjava
+#DESCRIPTION TV Myjava
+#SERVICE 4097:0:1:EA1E:ECAA:AA1A:1010101:0:0:0:https%3a//n105.quickmedia.tv/noe-2-abr/noe-2-abr/playlist_dvr.m3u8:TV NOE+
+#DESCRIPTION TV NOE+
+#SERVICE 4097:0:1:9428:9C4B:4B2E:1010101:0:0:0:https%3a//n105.quickmedia.tv/noe-abr/noe-abr/playlist_dvr.m3u8:TV NOE
+#DESCRIPTION TV NOE
+#SERVICE 4097:0:1:9408:994F:4F0E:1010101:0:0:0:https%3a//videostudioris.sk/hls/tvsen.m3u8:TV Sen
+#DESCRIPTION TV Sen
+#SERVICE 4097:0:1:E38:2E4:E435:1010101:0:0:0:https%3a//videostudioris.sk/hls/tvst.m3u8:TV Stará Turá
+#DESCRIPTION TV Stará Turá
+#SERVICE 4097:0:1:4733:4975:7535:1010101:0:0:0:https%3a//5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8:TV Turzovka
+#DESCRIPTION TV Turzovka
+#SERVICE 4097:0:1:6861:6D81:8166:1010101:0:0:0:https%3a//stream.polar.cz/vctv/vctvlive-1/playlist.m3u8:Východočeská TV
+#DESCRIPTION Východočeská TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/zapadoslovenska:Západoslovenská TV (Twich)
+#DESCRIPTION Západoslovenská TV (Twich)
+#SERVICE 1:64:4EE:0:0:0:0:0:0:0::== ★★ GERMANY  ★★ ==
+#DESCRIPTION == ★★ GERMANY  ★★ ==
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0g0/index.m3u8:Kabel 1 Schweiz
+#DESCRIPTION Kabel 1 Schweiz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0fq/index.m3u8:Kabel Eins Doku HD
+#DESCRIPTION Kabel Eins Doku HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0c4/index.m3u8:KiKA HD
+#DESCRIPTION KiKA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a061/index.m3u8:MDR S-Anhalt HD
+#DESCRIPTION MDR S-Anhalt HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a060/index.m3u8:MDR Sachsen HD
+#DESCRIPTION MDR Sachsen HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a062/index.m3u8:MDR Thüringen HD
+#DESCRIPTION MDR Thüringen HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a06u/index.m3u8:MTV HD
 #DESCRIPTION MTV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01b/index.m3u8:MTV Hits
-#DESCRIPTION MTV Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03l/index.m3u8:MTV SIM HD
-#DESCRIPTION MTV SIM HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a04m/index.m3u8:Mas Chic
-#DESCRIPTION Mas Chic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02o/index.m3u8:Multicinema
-#DESCRIPTION Multicinema
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00j/index.m3u8:Multimedios
-#DESCRIPTION Multimedios
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a04n/index.m3u8:Multipremier
-#DESCRIPTION Multipremier
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a04r/index.m3u8:Multivision
-#DESCRIPTION Multivision
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a04s/index.m3u8:Multivision Sport
-#DESCRIPTION Multivision Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a04q/index.m3u8:MuyTuyo
-#DESCRIPTION MuyTuyo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a04p/index.m3u8:NacionTV
-#DESCRIPTION NacionTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03y/index.m3u8:Nat Geo HD
-#DESCRIPTION Nat Geo HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a018/index.m3u8:National Geographic
-#DESCRIPTION National Geographic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00y/index.m3u8:Nick Jr
-#DESCRIPTION Nick Jr
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03e/index.m3u8:Nick SIM HD
-#DESCRIPTION Nick SIM HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02i/index.m3u8:PXTV
-#DESCRIPTION PXTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00n/index.m3u8:Paramount
-#DESCRIPTION Paramount
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03z/index.m3u8:Paramount HD
-#DESCRIPTION Paramount HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a043/index.m3u8:Pasiones HD
-#DESCRIPTION Pasiones HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a04z/index.m3u8:Playboy
-#DESCRIPTION Playboy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00u/index.m3u8:Playboy
-#DESCRIPTION Playboy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02b/index.m3u8:RCN Novelas
-#DESCRIPTION RCN Novelas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a011/index.m3u8:SEMILLITAS
-#DESCRIPTION SEMILLITAS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a025/index.m3u8:SERTV - PAN
-#DESCRIPTION SERTV - PAN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a051/index.m3u8:SKY SPORT 3
-#DESCRIPTION SKY SPORT 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02w/index.m3u8:SONY
-#DESCRIPTION SONY
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03a/index.m3u8:SONY HD
-#DESCRIPTION SONY HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a015/index.m3u8:SPACE
-#DESCRIPTION SPACE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a038/index.m3u8:STAR CHANNEL HD
-#DESCRIPTION STAR CHANNEL HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02p/index.m3u8:Sembrador
-#DESCRIPTION Sembrador
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01z/index.m3u8:Sony Movies HD
-#DESCRIPTION Sony Movies HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a022/index.m3u8:Star TVE HD
-#DESCRIPTION Star TVE HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01q/index.m3u8:Studio Universal HD
-#DESCRIPTION Studio Universal HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02f/index.m3u8:Sun Channel
-#DESCRIPTION Sun Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a030/index.m3u8:SyFy
-#DESCRIPTION SyFy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01i/index.m3u8:TBN Enlace
-#DESCRIPTION TBN Enlace
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a017/index.m3u8:TBS
-#DESCRIPTION TBS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02n/index.m3u8:TCM
-#DESCRIPTION TCM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00e/index.m3u8:TD+2 HD CR
-#DESCRIPTION TD+2 HD CR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a00d/index.m3u8:TD+HD CR
-#DESCRIPTION TD+HD CR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a034/index.m3u8:TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0nd/index.m3u8:MediaShop- Meine Einkaufswelt
+#DESCRIPTION MediaShop- Meine Einkaufswelt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0lr/index.m3u8:MediaShop- Neuheiten
+#DESCRIPTION MediaShop- Neuheiten
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0jy/index.m3u8:Mei Musi
+#DESCRIPTION Mei Musi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0bd/index.m3u8:Melodie TV NEU
+#DESCRIPTION Melodie TV NEU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0lv/index.m3u8:N24 DOKU
+#DESCRIPTION N24 DOKU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0mx/index.m3u8:NITRO
+#DESCRIPTION NITRO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a07y/index.m3u8:NITRO HD
+#DESCRIPTION NITRO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0n2/index.m3u8:Nick/Comedy Central Austria
+#DESCRIPTION Nick/Comedy Central Austria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a07i/index.m3u8:ONE HD
+#DESCRIPTION ONE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0b6/index.m3u8:ORF III HD
+#DESCRIPTION ORF III HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0ag/index.m3u8:ORF SPORT+
+#DESCRIPTION ORF SPORT+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0b7/index.m3u8:ORF SPORT+ HD
+#DESCRIPTION ORF SPORT+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0dl/index.m3u8:ORF1
+#DESCRIPTION ORF1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0bi/index.m3u8:ORF1 HD
+#DESCRIPTION ORF1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0dm/index.m3u8:ORF2
+#DESCRIPTION ORF2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0dp/index.m3u8:ORF2 B
+#DESCRIPTION ORF2 B
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0dv/index.m3u8:ORF2 K
+#DESCRIPTION ORF2 K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0do/index.m3u8:ORF2 N
+#DESCRIPTION ORF2 N
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0dq/index.m3u8:ORF2 O
+#DESCRIPTION ORF2 O
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0dr/index.m3u8:ORF2 S
+#DESCRIPTION ORF2 S
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0du/index.m3u8:ORF2 St
+#DESCRIPTION ORF2 St
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0ds/index.m3u8:ORF2 T
+#DESCRIPTION ORF2 T
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0dt/index.m3u8:ORF2 V
+#DESCRIPTION ORF2 V
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0dn/index.m3u8:ORF2 W
+#DESCRIPTION ORF2 W
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0b1/index.m3u8:ORF2B HD
+#DESCRIPTION ORF2B HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0dx/index.m3u8:ORF2E
+#DESCRIPTION ORF2E
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0b0/index.m3u8:ORF2K HD
+#DESCRIPTION ORF2K HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0bm/index.m3u8:ORF2N HD
+#DESCRIPTION ORF2N HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0b2/index.m3u8:ORF2O HD
+#DESCRIPTION ORF2O HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0b3/index.m3u8:ORF2S HD
+#DESCRIPTION ORF2S HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0az/index.m3u8:ORF2St HD
+#DESCRIPTION ORF2St HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0b4/index.m3u8:ORF2T HD
+#DESCRIPTION ORF2T HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0b5/index.m3u8:ORF2V HD
+#DESCRIPTION ORF2V HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0bj/index.m3u8:ORF2W HD
+#DESCRIPTION ORF2W HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0g4/index.m3u8:PULS 4 Austria
+#DESCRIPTION PULS 4 Austria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0lb/index.m3u8:Pro7 MAXX
+#DESCRIPTION Pro7 MAXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0cv/index.m3u8:Pro7 MAXX HD
+#DESCRIPTION Pro7 MAXX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0l7/index.m3u8:ProSieben
+#DESCRIPTION ProSieben
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0fz/index.m3u8:ProSieben Austria
+#DESCRIPTION ProSieben Austria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0cs/index.m3u8:ProSieben HD
+#DESCRIPTION ProSieben HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0fy/index.m3u8:ProSieben Schweiz
+#DESCRIPTION ProSieben Schweiz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0m4/index.m3u8:QVC
+#DESCRIPTION QVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a037/index.m3u8:QVC HD
+#DESCRIPTION QVC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a06w/index.m3u8:QVC STYLE HD
+#DESCRIPTION QVC STYLE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0bf/index.m3u8:QVC UHD
+#DESCRIPTION QVC UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a045/index.m3u8:QVC ZWEI HD
+#DESCRIPTION QVC ZWEI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0kv/index.m3u8:QVC2
+#DESCRIPTION QVC2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0b9/index.m3u8:R9 Oesterreich HD
+#DESCRIPTION R9 Oesterreich HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0lk/index.m3u8:REGIO TV
+#DESCRIPTION REGIO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0n6/index.m3u8:ROCK ANTENNE
+#DESCRIPTION ROCK ANTENNE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0mg/index.m3u8:RTL Austria
+#DESCRIPTION RTL Austria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0mr/index.m3u8:RTL Bayern
+#DESCRIPTION RTL Bayern
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0mq/index.m3u8:RTL HB NDS
+#DESCRIPTION RTL HB NDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a04k/index.m3u8:RTL HD
+#DESCRIPTION RTL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0ms/index.m3u8:RTL HH SH
+#DESCRIPTION RTL HH SH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0mp/index.m3u8:RTL Regional NRW
+#DESCRIPTION RTL Regional NRW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0mo/index.m3u8:RTL Television
+#DESCRIPTION RTL Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0cg/index.m3u8:RTL UHD
+#DESCRIPTION RTL UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0mt/index.m3u8:RTLZWEI
+#DESCRIPTION RTLZWEI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0mi/index.m3u8:RTLZWEI Austria
+#DESCRIPTION RTLZWEI Austria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a04n/index.m3u8:RTLZWEI HD
+#DESCRIPTION RTLZWEI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0my/index.m3u8:RTLup
+#DESCRIPTION RTLup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0ao/index.m3u8:RTLup Austria
+#DESCRIPTION RTLup Austria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a04o/index.m3u8:RTLup HD
+#DESCRIPTION RTLup HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0k0/index.m3u8:RiC
+#DESCRIPTION RiC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0ng/index.m3u8:Romance TV HD
+#DESCRIPTION Romance TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a07s/index.m3u8:SACHSEN EINS
+#DESCRIPTION SACHSEN EINS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0l6/index.m3u8:SAT.1
+#DESCRIPTION SAT.1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0g2/index.m3u8:SAT.1 A
+#DESCRIPTION SAT.1 A
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0ld/index.m3u8:SAT.1 Bayern
+#DESCRIPTION SAT.1 Bayern
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0g3/index.m3u8:SAT.1 CH
+#DESCRIPTION SAT.1 CH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0la/index.m3u8:SAT.1 Gold
+#DESCRIPTION SAT.1 Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a093/index.m3u8:SAT.1 Gold HD
+#DESCRIPTION SAT.1 Gold HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0cr/index.m3u8:SAT.1 HD
+#DESCRIPTION SAT.1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0g5/index.m3u8:SAT.1 HH/SH
+#DESCRIPTION SAT.1 HH/SH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0le/index.m3u8:SAT.1 NRW
+#DESCRIPTION SAT.1 NRW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0g6/index.m3u8:SAT.1 NS/Bremen
+#DESCRIPTION SAT.1 NS/Bremen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0g7/index.m3u8:SAT.1 RhlPf/Hessen
+#DESCRIPTION SAT.1 RhlPf/Hessen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0l4/index.m3u8:SBN International
+#DESCRIPTION SBN International
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a07q/index.m3u8:SENDER NEU JERUSALEM
+#DESCRIPTION SENDER NEU JERUSALEM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0m2/index.m3u8:SIXX
+#DESCRIPTION SIXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0cu/index.m3u8:SIXX HD
+#DESCRIPTION SIXX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0lt/index.m3u8:SPORT1
+#DESCRIPTION SPORT1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a046/index.m3u8:SPORT1 HD
+#DESCRIPTION SPORT1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a09y/index.m3u8:SPORT1+
+#DESCRIPTION SPORT1+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a09x/index.m3u8:SPORTDIGITAL FUSSBALL HD
+#DESCRIPTION SPORTDIGITAL FUSSBALL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0mc/index.m3u8:SR Fernsehen
+#DESCRIPTION SR Fernsehen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a07k/index.m3u8:SR Fernsehen HD
+#DESCRIPTION SR Fernsehen HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0mv/index.m3u8:SUPER RTL
+#DESCRIPTION SUPER RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0mj/index.m3u8:SUPER RTL A
+#DESCRIPTION SUPER RTL A
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a07w/index.m3u8:SUPER RTL HD
+#DESCRIPTION SUPER RTL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0go/index.m3u8:SWR BW HD
+#DESCRIPTION SWR BW HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0gp/index.m3u8:SWR RP HD
+#DESCRIPTION SWR RP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a06f/index.m3u8:Schlager Deluxe
+#DESCRIPTION Schlager Deluxe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0bl/index.m3u8:ServusTV HD Deutschland
+#DESCRIPTION ServusTV HD Deutschland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0bk/index.m3u8:ServusTV HD Oesterreich
+#DESCRIPTION ServusTV HD Oesterreich
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0lh/index.m3u8:Sonnenklar TV
+#DESCRIPTION Sonnenklar TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0al/index.m3u8:StarParadies AT
+#DESCRIPTION StarParadies AT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0ah/index.m3u8:StarParadies D
+#DESCRIPTION StarParadies D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0bc/index.m3u8:Stimmungsgarten TV
+#DESCRIPTION Stimmungsgarten TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0ll/index.m3u8:TELE 5
+#DESCRIPTION TELE 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0m1/index.m3u8:TLC
 #DESCRIPTION TLC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01e/index.m3u8:TNT
-#DESCRIPTION TNT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03g/index.m3u8:TNT HD
-#DESCRIPTION TNT HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a016/index.m3u8:TNT Series
-#DESCRIPTION TNT Series
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a040/index.m3u8:TNT Series HD
-#DESCRIPTION TNT Series HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a005/index.m3u8:TVChile
-#DESCRIPTION TVChile
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a054/index.m3u8:TVUrbana
-#DESCRIPTION TVUrbana
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01p/index.m3u8:Teen Nick HD
-#DESCRIPTION Teen Nick HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02s/index.m3u8:TeleMicro - RD
-#DESCRIPTION TeleMicro - RD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a013/index.m3u8:Telemundo
-#DESCRIPTION Telemundo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a01w/index.m3u8:Telemundo HD
-#DESCRIPTION Telemundo HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a027/index.m3u8:Teleuniverso - RD
-#DESCRIPTION Teleuniverso - RD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03d/index.m3u8:Tigo Sports HD
-#DESCRIPTION Tigo Sports HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02u/index.m3u8:Tooncast
-#DESCRIPTION Tooncast
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a012/index.m3u8:Tru TV
-#DESCRIPTION Tru TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a046/index.m3u8:UNIVERSAL CINEMA ESTE HD
-#DESCRIPTION UNIVERSAL CINEMA ESTE HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03r/index.m3u8:UNIVERSAL COMEDY HD
-#DESCRIPTION UNIVERSAL COMEDY HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03q/index.m3u8:UNIVERSAL CRIME HD
-#DESCRIPTION UNIVERSAL CRIME HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03n/index.m3u8:UNIVERSAL PREMIERE HD
-#DESCRIPTION UNIVERSAL PREMIERE HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03o/index.m3u8:UNIVERSAL PREMIERE O HD
-#DESCRIPTION UNIVERSAL PREMIERE O HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a03p/index.m3u8:UNIVERSAL REALITY HD
-#DESCRIPTION UNIVERSAL REALITY HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a044/index.m3u8:Univision HD
-#DESCRIPTION Univision HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a055/index.m3u8:Urbana
-#DESCRIPTION Urbana
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02q/index.m3u8:VENUS
-#DESCRIPTION VENUS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a039/index.m3u8:WARNER HD
-#DESCRIPTION WARNER HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a02x/index.m3u8:Warner
-#DESCRIPTION Warner
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a003/index.m3u8:ZooMoo
-#DESCRIPTION ZooMoo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.83.119.67%3a8000/play/a053/index.m3u8:canal 25
-#DESCRIPTION canal 25
-#SERVICE 1:64:4DC:0:0:0:0:0:0:0::== ★★ Mix 2 ★★ ==
-#DESCRIPTION == ★★ Mix 2 ★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0ok:002 Dos Kids HD
-#DESCRIPTION 002 Dos Kids HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0ol:005 Discovery Kids
-#DESCRIPTION 005 Discovery Kids
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0om:006 Disney Jr
-#DESCRIPTION 006 Disney Jr
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0on:008 BabyFirst
-#DESCRIPTION 008 BabyFirst
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0oo:009 Cartoon Network
-#DESCRIPTION 009 Cartoon Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0op:010 Disney Channel
-#DESCRIPTION 010 Disney Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0oq:014 Nick
-#DESCRIPTION 014 Nick
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0or:015 Nick Jr
-#DESCRIPTION 015 Nick Jr
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0os:016 NTV HD
-#DESCRIPTION 016 NTV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0ot:017 HBO
-#DESCRIPTION 017 HBO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0ou:018 HBO Family
-#DESCRIPTION 018 HBO Family
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0ov:019 HBO Plus
-#DESCRIPTION 019 HBO Plus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0ow:020 HBO Xtreme HD
-#DESCRIPTION 020 HBO Xtreme HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0ox:021 HBO 2
-#DESCRIPTION 021 HBO 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0oy:024 Discovery Channel
-#DESCRIPTION 024 Discovery Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0p8:062 La Red
-#DESCRIPTION 062 La Red
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/064:064 TVN HD
-#DESCRIPTION 064 TVN HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0pa:065 Mega
-#DESCRIPTION 065 Mega
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0pb:066 CHV HD
-#DESCRIPTION 066 CHV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0pc:067 Canal 13
-#DESCRIPTION 067 Canal 13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0pe:081 Warner TV HD
-#DESCRIPTION 081 Warner TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0pi:088 Universal
-#DESCRIPTION 088 Universal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0pp:109 TNT HD
-#DESCRIPTION 109 TNT HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0pu:119 Space HD
-#DESCRIPTION 119 Space HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0qg:209 Fox Sports 1
-#DESCRIPTION 209 Fox Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0qh:210 Fox Sports 2
-#DESCRIPTION 210 Fox Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0qi:211 Fox Sports 3
-#DESCRIPTION 211 Fox Sports 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/a0qv:212 ESPN
-#DESCRIPTION 212 ESPN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.160.15.1%3a8111/play/233:233 TNT SPORTS HD
-#DESCRIPTION 233 TNT SPORTS HD
-#SERVICE 1:64:4DD:0:0:0:0:0:0:0::== ★★ Spain 1 ★★ ==
-#DESCRIPTION == ★★ Spain 1 ★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a033/index.m3u8:4 - Repretel
-#DESCRIPTION 4 - Repretel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00f/index.m3u8:A&E HD
-#DESCRIPTION A&E HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a031/index.m3u8:AMC HD
-#DESCRIPTION AMC HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a01m/index.m3u8:AXN HD
-#DESCRIPTION AXN HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00m/index.m3u8:AZ click HD
-#DESCRIPTION AZ click HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00c/index.m3u8:Animal Planet HD
-#DESCRIPTION Animal Planet HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a02u/index.m3u8:Antena 7- RD
-#DESCRIPTION Antena 7- RD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a03s/index.m3u8:Atres Series
-#DESCRIPTION Atres Series
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a03h/index.m3u8:Azmundo
-#DESCRIPTION Azmundo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/bm01/index.m3u8:BANDAMAX HD
-#DESCRIPTION BANDAMAX HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a004/index.m3u8:Baby TV
-#DESCRIPTION Baby TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a024/index.m3u8:CARTOON NT HD
-#DESCRIPTION CARTOON NT HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a01t/index.m3u8:CINECANAL HD
-#DESCRIPTION CINECANAL HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a02r/index.m3u8:CNN Internacional
-#DESCRIPTION CNN Internacional
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a01v/index.m3u8:Canal 11 - HON
-#DESCRIPTION Canal 11 - HON
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a02k/index.m3u8:Canal 2 - NIC
-#DESCRIPTION Canal 2 - NIC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a02i/index.m3u8:Canal 5 - HON
-#DESCRIPTION Canal 5 - HON
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a03z/index.m3u8:Canal 7 HD CR
-#DESCRIPTION Canal 7 HD CR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a023/index.m3u8:Canal Claro HD
-#DESCRIPTION Canal Claro HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a02w/index.m3u8:Cartoon Network
-#DESCRIPTION Cartoon Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a02y/index.m3u8:Cartoonito
-#DESCRIPTION Cartoonito
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a039/index.m3u8:Cine Latino
-#DESCRIPTION Cine Latino
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a03b/index.m3u8:CineCanal
-#DESCRIPTION CineCanal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a03a/index.m3u8:CineMax
-#DESCRIPTION CineMax
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a022/index.m3u8:Claro Sports HD
-#DESCRIPTION Claro Sports HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00x/index.m3u8:Comedy Central HD
-#DESCRIPTION Comedy Central HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00l/index.m3u8:DHE HD
-#DESCRIPTION DHE HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a04g/index.m3u8:DIRECTV SPORT 1 HD
-#DESCRIPTION DIRECTV SPORT 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00u/index.m3u8:DISCOVERY THEATHER HD
-#DESCRIPTION DISCOVERY THEATHER HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a01c/index.m3u8:Discovery Channel HD
-#DESCRIPTION Discovery Channel HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a01h/index.m3u8:Discovery ID HD
-#DESCRIPTION Discovery ID HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a03c/index.m3u8:Discovery Kids
-#DESCRIPTION Discovery Kids
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a03y/index.m3u8:Discovery Kids HD
-#DESCRIPTION Discovery Kids HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a006/index.m3u8:Discovery Science
-#DESCRIPTION Discovery Science
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a03d/index.m3u8:Discovery Turbo
-#DESCRIPTION Discovery Turbo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a01e/index.m3u8:Discovery World HD
-#DESCRIPTION Discovery World HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a03f/index.m3u8:Disney
-#DESCRIPTION Disney
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a02z/index.m3u8:Disney JR
-#DESCRIPTION Disney JR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00d/index.m3u8:E! Entertairment HD
-#DESCRIPTION E! Entertairment HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a017/index.m3u8:ESPN 2 HD
-#DESCRIPTION ESPN 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a016/index.m3u8:ESPN 3 HD
-#DESCRIPTION ESPN 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a015/index.m3u8:ESPN HD
-#DESCRIPTION ESPN HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a01y/index.m3u8:ESPN Premium Arg HD
-#DESCRIPTION ESPN Premium Arg HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00j/index.m3u8:Europa HD
-#DESCRIPTION Europa HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00s/index.m3u8:FOX SPORTS 2 HD
-#DESCRIPTION FOX SPORTS 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a018/index.m3u8:FOX SPORTS 3 HD
-#DESCRIPTION FOX SPORTS 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a03j/index.m3u8:FUTV CR
-#DESCRIPTION FUTV CR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00i/index.m3u8:FX HD
-#DESCRIPTION FX HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00k/index.m3u8:FX Movies HD
-#DESCRIPTION FX Movies HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00e/index.m3u8:Film & arts HD
-#DESCRIPTION Film & arts HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a01l/index.m3u8:Fox Sports HD
-#DESCRIPTION Fox Sports HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a042/index.m3u8:France24
-#DESCRIPTION France24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a02g/index.m3u8:Golden Premiere 2 HD
-#DESCRIPTION Golden Premiere 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a02f/index.m3u8:Golden Premiere HD
-#DESCRIPTION Golden Premiere HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00o/index.m3u8:Golf Channel HD
-#DESCRIPTION Golf Channel HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a029/index.m3u8:HBO Family HD
-#DESCRIPTION HBO Family HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a026/index.m3u8:HBO HD
-#DESCRIPTION HBO HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a028/index.m3u8:HBO Plus HD
-#DESCRIPTION HBO Plus HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a02a/index.m3u8:HBO XTREME
-#DESCRIPTION HBO XTREME
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a027/index.m3u8:HBO2 HD
-#DESCRIPTION HBO2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a01w/index.m3u8:HCH- HON
-#DESCRIPTION HCH- HON
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00w/index.m3u8:HOLA! TV HD
-#DESCRIPTION HOLA! TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a01x/index.m3u8:History HD
-#DESCRIPTION History HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a03r/index.m3u8:Hola!TV
-#DESCRIPTION Hola!TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00v/index.m3u8:Home & Health HD
-#DESCRIPTION Home & Health HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a030/index.m3u8:LIFE TIME
-#DESCRIPTION LIFE TIME
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00z/index.m3u8:MTV 00s HD
-#DESCRIPTION MTV 00s HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a01z/index.m3u8:MTV HD
-#DESCRIPTION MTV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00y/index.m3u8:MTV SIM HD
-#DESCRIPTION MTV SIM HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a03e/index.m3u8:Multipremier
-#DESCRIPTION Multipremier
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a02s/index.m3u8:NTN24 HD
-#DESCRIPTION NTN24 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a019/index.m3u8:Nat Geo HD
-#DESCRIPTION Nat Geo HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a04h/index.m3u8:Nicarao TV
-#DESCRIPTION Nicarao TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a02x/index.m3u8:Nick Jr
-#DESCRIPTION Nick Jr
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00r/index.m3u8:Nick SIM HD
-#DESCRIPTION Nick SIM HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a01a/index.m3u8:Paramount HD
-#DESCRIPTION Paramount HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a01f/index.m3u8:Pasiones HD
-#DESCRIPTION Pasiones HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a02h/index.m3u8:Playboy
-#DESCRIPTION Playboy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a01s/index.m3u8:SONY HD
-#DESCRIPTION SONY HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a01n/index.m3u8:SPACE HD
-#DESCRIPTION SPACE HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a011/index.m3u8:STAR ACTION HD
-#DESCRIPTION STAR ACTION HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a01q/index.m3u8:STAR CHANNEL HD
-#DESCRIPTION STAR CHANNEL HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a013/index.m3u8:STAR CLASSICS HD
-#DESCRIPTION STAR CLASSICS HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a01i/index.m3u8:STAR COMEDY HD
-#DESCRIPTION STAR COMEDY HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a012/index.m3u8:STAR FUN HD
-#DESCRIPTION STAR FUN HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a010/index.m3u8:STAR SERIES HD
-#DESCRIPTION STAR SERIES HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a043/index.m3u8:Sky Sports / Espn+
-#DESCRIPTION Sky Sports / Espn+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00n/index.m3u8:Star TVE HD
-#DESCRIPTION Star TVE HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00a/index.m3u8:Studio Universal HD
-#DESCRIPTION Studio Universal HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00b/index.m3u8:SyFy HD
-#DESCRIPTION SyFy HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a03i/index.m3u8:TLC
-#DESCRIPTION TLC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00t/index.m3u8:TNT HD
-#DESCRIPTION TNT HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a01b/index.m3u8:TNT Series HD
-#DESCRIPTION TNT Series HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a041/index.m3u8:TUDN (ᴍx)
-#DESCRIPTION TUDN (ᴍx)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a03p/index.m3u8:TVChile
-#DESCRIPTION TVChile
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a032/index.m3u8:Teen Nick HD
-#DESCRIPTION Teen Nick HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a02t/index.m3u8:Tele Antillas - RD
-#DESCRIPTION Tele Antillas - RD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a02j/index.m3u8:Telecadena - HON
-#DESCRIPTION Telecadena - HON
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a00h/index.m3u8:Telemundo HD
-#DESCRIPTION Telemundo HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a02v/index.m3u8:Telesistema RD
-#DESCRIPTION Telesistema RD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a03g/index.m3u8:Tooncast
-#DESCRIPTION Tooncast
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/uu01/index.m3u8:UNIMAS USA
-#DESCRIPTION UNIMAS USA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a038/index.m3u8:UNIVERSAL COMEDY HD
-#DESCRIPTION UNIVERSAL COMEDY HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a035/index.m3u8:UNIVERSAL PREMIERE HD
-#DESCRIPTION UNIVERSAL PREMIERE HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a036/index.m3u8:UNIVERSAL PREMIERE O HD
-#DESCRIPTION UNIVERSAL PREMIERE O HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a037/index.m3u8:UNIVERSAL REALITY HD
-#DESCRIPTION UNIVERSAL REALITY HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a01g/index.m3u8:Univision HD
-#DESCRIPTION Univision HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a08b/index.m3u8:Venus
-#DESCRIPTION Venus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a01r/index.m3u8:WARNER HD
-#DESCRIPTION WARNER HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.225.210%3a58001/play/a005/index.m3u8:ZooMoo
-#DESCRIPTION ZooMoo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0n4/index.m3u8:TLC Austria
+#DESCRIPTION TLC Austria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a06r/index.m3u8:TLC HD
+#DESCRIPTION TLC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0mu/index.m3u8:TOGGO plus
+#DESCRIPTION TOGGO plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0bg/index.m3u8:TV Trwam
+#DESCRIPTION TV Trwam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0k3/index.m3u8:TV1 OOE NEU
+#DESCRIPTION TV1 OOE NEU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a07p/index.m3u8:Telesur HD
+#DESCRIPTION Telesur HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0mw/index.m3u8:VOX
+#DESCRIPTION VOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0mh/index.m3u8:VOX Austria
+#DESCRIPTION VOX Austria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a04l/index.m3u8:VOX HD
+#DESCRIPTION VOX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0mk/index.m3u8:VOXup
+#DESCRIPTION VOXup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a04p/index.m3u8:VOXup HD
+#DESCRIPTION VOXup HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0jz/index.m3u8:Volksmusik.TV
+#DESCRIPTION Volksmusik.TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0a1/index.m3u8:WAIDWERK
+#DESCRIPTION WAIDWERK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0m8/index.m3u8:WDR Düsseldorf
+#DESCRIPTION WDR Düsseldorf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0kr/index.m3u8:WDR Wuppertal
+#DESCRIPTION WDR Wuppertal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0l9/index.m3u8:WELT
+#DESCRIPTION WELT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a03a/index.m3u8:WELT HD
+#DESCRIPTION WELT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0k2/index.m3u8:Wir24TV
+#DESCRIPTION Wir24TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0jn/index.m3u8:Xplore
+#DESCRIPTION Xplore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0c7/index.m3u8:ZDF HD
+#DESCRIPTION ZDF HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0c5/index.m3u8:ZDFinfo HD
+#DESCRIPTION ZDFinfo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0gn/index.m3u8:arte HD
+#DESCRIPTION arte HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a063/index.m3u8:hr-fernsehen HD
+#DESCRIPTION hr-fernsehen HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0l8/index.m3u8:kabel eins
+#DESCRIPTION kabel eins
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0lf/index.m3u8:kabel eins Doku
+#DESCRIPTION kabel eins Doku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0fp/index.m3u8:kabel eins HD
+#DESCRIPTION kabel eins HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0ba/index.m3u8:krone.tv
+#DESCRIPTION krone.tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0ls/index.m3u8:meinTVshop
+#DESCRIPTION meinTVshop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0mz/index.m3u8:ntv
+#DESCRIPTION ntv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0k1/index.m3u8:ntv Austria
+#DESCRIPTION ntv Austria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a04m/index.m3u8:ntv HD
+#DESCRIPTION ntv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0bb/index.m3u8:oe24.TV HD
+#DESCRIPTION oe24.TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0na/index.m3u8:pearl.tv Shop
+#DESCRIPTION pearl.tv Shop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a05z/index.m3u8:rbb Berlin HD
+#DESCRIPTION rbb Berlin HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a05y/index.m3u8:rbb Brandenburg HD
+#DESCRIPTION rbb Brandenburg HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0lc/index.m3u8:sixx
+#DESCRIPTION sixx
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0n7/index.m3u8:sunshine live
+#DESCRIPTION sunshine live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a07h/index.m3u8:tagesschau24 HD
+#DESCRIPTION tagesschau24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0c8/index.m3u8:zdf_neo HD
+#DESCRIPTION zdf_neo HD
+#SERVICE 1:64:4EF:0:0:0:0:0:0:0::== ★★ GERMANY 2 ★★ ==
+#DESCRIPTION == ★★ GERMANY 2 ★★ ==
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8:a.tv (1080p)
+#DESCRIPTION a.tv (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ma.anixa.tv/clips/stream/anixehd/index.m3u8:Anixe HD (720p)
+#DESCRIPTION Anixe HD (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8:München TV (1080p)
+#DESCRIPTION München TV (1080p)
+#SERVICE 4097:0:1:3F4:2:AA:5A0000:0:0:0:http%3a//hls1.wtnet.de/noa4/apple/wifi6500.m3u8:Noa 4 Norderstedt
+#DESCRIPTION Noa 4 Norderstedt
+#SERVICE 4097:0:1:4A80:1001:2114:EEEE0000:0:0:0:http%3a//hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8:Noa 4 Hamburg
+#DESCRIPTION Noa 4 Hamburg
+#SERVICE 4097:0:1:3F66:FF54:EC:0:0:0:0:http%3a//tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8:tagesschau24
+#DESCRIPTION tagesschau24
+#SERVICE 4097:0:1:7556:D60C:EC:0:0:0:0:http%3a//ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8?sd=10&rebase=on:NDR Fernsehen
+#DESCRIPTION NDR Fernsehen
+#SERVICE 4097:0:1:E20B:906E:EC:0:0:0:0:http%3a//livestreams.br.de/i/bfsnord_germany@119898/index_3776_av-b.m3u8:Bayerisches Fernsehen
+#DESCRIPTION Bayerisches Fernsehen
+#SERVICE 4097:0:1:73:14A:3:FFFF0000:0:0:0:http%3a//apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8:oe24 TV
+#DESCRIPTION oe24 TV
+#SERVICE 4097:0:1:3EF:1:601:FFFF0000:0:0:0:rtmp%3a//streaming.austria24.tv/live/stream_360p:Austria24 TV
+#DESCRIPTION Austria24 TV
+#SERVICE 4097:0:1:1FC:5:1:FFFF0000:0:0:0:http%3a//cdn.icu.de/rtplive/btv.stream/.m3u8:Baden TV
+#DESCRIPTION Baden TV
+#SERVICE 4097:0:1:3:1:48:0:0:0:0:http%3a//62.113.210.250/medienasa-live/BLKonline_high/master.m3u8:Burgenlandkreis Regional TV
+#DESCRIPTION Burgenlandkreis Regional TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.openplayout.org/hls/dorf_high/index.m3u8:DorfTV
+#DESCRIPTION DorfTV
+#SERVICE 4097:0:1:36B2:E:601:FFFF0000:0:0:0:http%3a//stream.fs1.tv%3a8080/hls/webstream.m3u8:FS1
+#DESCRIPTION FS1
+#SERVICE 4097:0:1:1:4:E:5A0000:0:0:0:http%3a//s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m3u8:Zell am See
+#DESCRIPTION Zell am See
+#SERVICE 1:64:4F0:0:0:0:0:0:0:0::== ★★ QVC ★★ ==
+#DESCRIPTION == ★★ QVC ★★ ==
+#SERVICE 4097:0:1:C2C2:730A:EC:0:0:0:0:http%3a//live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8:QVC UK
+#DESCRIPTION QVC UK
+#SERVICE 4097:0:1:6805:3868:EC:0:0:0:0:http%3a//live.qvcuk.simplestreamcdn.com/hera/remote/qvcuk_primary_sdi1/live.m3u8:QVC +1 UK
+#DESCRIPTION QVC +1 UK
+#SERVICE 4097:0:1:4131:BFAB:EC:0:0:0:0:http%3a//live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8:QVC Beauty UK
+#DESCRIPTION QVC Beauty UK
+#SERVICE 4097:0:1:E15:1F3:EC:0:0:0:0:http%3a//live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8:QVC Extra UK
+#DESCRIPTION QVC Extra UK
+#SERVICE 4097:0:1:6906:520A:EC:0:0:0:0:http%3a//qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/chunklist_b4192000.m3u8:QVC Italia
+#DESCRIPTION QVC Italia
+#SERVICE 4097:0:1:3F0:1:601:FFFF0000:0:0:0:http%3a//cdn-live1.qvc.jp/iPhone/QVC_PC.m3u8:QVC Japan
+#DESCRIPTION QVC Japan
+#SERVICE 4097:0:1:36DD:F5A4:EC:0:0:0:0:http%3a//live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8:QVC Style UK
+#DESCRIPTION QVC Style UK
+#SERVICE 4097:0:1:D15:A3FF:EC:0:0:0:0:http%3a//live.qvcde.simplestreamcdn.com/live/qvcde_main_clean/bitrate1.isml/live.m3u8:QVC (Deutsch)
+#DESCRIPTION QVC (Deutsch)
+#SERVICE 4097:0:1:A35E:547B:EC:0:0:0:0:http%3a//live.qvcde.simplestreamcdn.com/live/qvcde_plus_clean/bitrate1.isml/live.m3u8:QVC2 (Deutsch)
+#DESCRIPTION QVC2 (Deutsch)
+#SERVICE 4097:0:1:EFF2:B60F:EC:0:0:0:0:http%3a//live.qvcde.simplestreamcdn.com/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8:QVC Style (Deutsch)
+#DESCRIPTION QVC Style (Deutsch)
+#SERVICE 1:64:4F1:0:0:0:0:0:0:0::== ★★ USA ★★ ==
+#DESCRIPTION == ★★ USA ★★ ==
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT:CBSN Bay Area (720p)
+#DESCRIPTION CBSN Bay Area (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:CBSN Bay Area (Pluto TV) (720p)
+#DESCRIPTION CBSN Bay Area (Pluto TV) (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1af2ad345340008fccd1e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:CBSN Boston (Pluto TV) (720p)
+#DESCRIPTION CBSN Boston (Pluto TV) (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1aeb2fd4b8a00076c2047/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:CBSN Chicago (Pluto TV) (720p)
+#DESCRIPTION CBSN Chicago (Pluto TV) (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8:CBSN Dallas (720p)
+#DESCRIPTION CBSN Dallas (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b12146cba40007aa7e5d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:CBSN Denver (Pluto TV) (720p)
+#DESCRIPTION CBSN Denver (Pluto TV) (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8:CBSN Los Angeles (720p)
+#DESCRIPTION CBSN Los Angeles (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?iu=/4128/CBS.MINN.OTT:CBSN Minnesota (720p)
+#DESCRIPTION CBSN Minnesota (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8:CBSN New York (720p)
+#DESCRIPTION CBSN New York (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lnc-kriv-fox-aws.tubi.video/index.m3u8:KRIV Fox 26 Houston (720p)
+#DESCRIPTION KRIV Fox 26 Houston (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lnc-ktbc-fox-aws.tubi.video/index.m3u8:KTBC Fox 7 Austin (720p)
+#DESCRIPTION KTBC Fox 7 Austin (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lnc-ktvu-fox-aws.tubi.video/index.m3u8:KTVU Fox 2 San Francisco (720p)
+#DESCRIPTION KTVU Fox 2 San Francisco (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/teleyupp1/teleup-N8qwnqgUq2/playlist.m3u8:KTLA 5 (Los Angeles) (720p)
+#DESCRIPTION KTLA 5 (Los Angeles) (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lnc-kttv-fox-aws.tubi.video/index.m3u8:KTTV Fox 11 Los Angeles (720p)
+#DESCRIPTION KTTV Fox 11 Los Angeles (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lnc-kcpq-fox-aws.tubi.video/index.m3u8:KCPQ Fox Q13 Seattle (720p)
+#DESCRIPTION KCPQ Fox Q13 Seattle (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lnc-kdfw-fox-aws.tubi.video/index.m3u8:KDFW Fox 4 Dallas-FT-Worth (720p)
+#DESCRIPTION KDFW Fox 4 Dallas-FT-Worth (720p)
+#SERVICE 4097:0:1:30:1:1:0:0:0:0:http%3a//wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8:NBC 4 News (New York)
+#DESCRIPTION NBC 4 News (New York)
+#SERVICE 4097:0:1:C517:813:2:11A0000:0:0:0:http%3a//wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8:NBC 10 News (Philadelphia)
+#DESCRIPTION NBC 10 News (Philadelphia)
+#SERVICE 4097:0:1:C517:813:2:11A0000:0:0:0:http%3a//kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8:NBC 11 News (Bay Area)
+#DESCRIPTION NBC 11 News (Bay Area)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil%3awbrz-live.smil/chunklist_b1300000.m3u8:WBRZ 2+
+#DESCRIPTION WBRZ 2+
+#SERVICE 4097:0:1:17D7:262:3:FFFF0000:0:0:0:http%3a//weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8:Weather Channel (eng)
+#DESCRIPTION Weather Channel (eng)
+#SERVICE 4097:0:1:DB6:C:1:E082E7C:0:0:0:http%3a//cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8:Weather Nation (eng)
+#DESCRIPTION Weather Nation (eng)
+#SERVICE 4097:0:1:8E8:41A:FE00:FFFF0000:0:0:0:http%3a//video.oct.dc.gov/out/u/96_4.m3u8:District Knowledge Network (eng)
+#DESCRIPTION District Knowledge Network (eng)
+#SERVICE 4097:0:1:C517:813:2:11A0000:0:0:0:http%3a//wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8:WVIT 30 News (Hartford)
+#DESCRIPTION WVIT 30 News (Hartford)
+#SERVICE 4097:0:1:3E8:A:22C1:EEEE0000:0:0:0:http%3a//media4.tripsmarter.com%3a1935/LiveTV/DTVHD/playlist.m3u8:Beach TV - 30A (eng)
+#DESCRIPTION Beach TV - 30A (eng)
+#SERVICE 4097:0:1:1FC:5:1:FFFF0000:0:0:0:http%3a//media4.tripsmarter.com%3a1935/LiveTV/KTVHD/chunklist_w363623166.m3u8:Key TV (eng)
+#DESCRIPTION Key TV (eng)
+#SERVICE 4097:0:1:279D:65:F020:FFFF0000:0:0:0:http%3a//tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8:TSTV
+#DESCRIPTION TSTV
+#SERVICE 4097:0:1:8FF:17:601:FFFF0000:0:0:0:http%3a//otv3.ocfl.net%3a1936/OrangeTV/smil%3aOrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8:Orange TV (Orlando)
+#DESCRIPTION Orange TV (Orlando)
+#SERVICE 1:64:4F2:0:0:0:0:0:0:0::== ★★ ADULT ★★ ==
+#DESCRIPTION == ★★ ADULT ★★ ==
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/anal.m3u8:AdultIPTV.net Anal
+#DESCRIPTION AdultIPTV.net Anal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/asian.m3u8:AdultIPTV.net Asian
+#DESCRIPTION AdultIPTV.net Asian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/bigass.m3u8:AdultIPTV.net Big Ass
+#DESCRIPTION AdultIPTV.net Big Ass
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/bigdick.m3u8:AdultIPTV.net Big Dick
+#DESCRIPTION AdultIPTV.net Big Dick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/bigtits.m3u8:AdultIPTV.net Big Tits
+#DESCRIPTION AdultIPTV.net Big Tits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/blonde.m3u8:AdultIPTV.net Blonde
+#DESCRIPTION AdultIPTV.net Blonde
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/blowjob.m3u8:AdultIPTV.net Blowjob
+#DESCRIPTION AdultIPTV.net Blowjob
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/brunette.m3u8:AdultIPTV.net Brunette
+#DESCRIPTION AdultIPTV.net Brunette
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/compilation.m3u8:AdultIPTV.net Compilation
+#DESCRIPTION AdultIPTV.net Compilation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/cuckold.m3u8:AdultIPTV.net Cuckold
+#DESCRIPTION AdultIPTV.net Cuckold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/fetish.m3u8:AdultIPTV.net Fetish
+#DESCRIPTION AdultIPTV.net Fetish
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/gangbang.m3u8:AdultIPTV.net Gangbang
+#DESCRIPTION AdultIPTV.net Gangbang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/gay.m3u8:AdultIPTV.net Gay
+#DESCRIPTION AdultIPTV.net Gay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/hardcore.m3u8:AdultIPTV.net Hardcore
+#DESCRIPTION AdultIPTV.net Hardcore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/interracial.m3u8:AdultIPTV.net Interracial
+#DESCRIPTION AdultIPTV.net Interracial
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/latina.m3u8:AdultIPTV.net Latina
+#DESCRIPTION AdultIPTV.net Latina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/lesbian.m3u8:AdultIPTV.net Lesbian
+#DESCRIPTION AdultIPTV.net Lesbian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/livecams.m3u8:AdultIPTV.net Live Cams
+#DESCRIPTION AdultIPTV.net Live Cams
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/milf.m3u8:AdultIPTV.net MILF
+#DESCRIPTION AdultIPTV.net MILF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/pornstar.m3u8:AdultIPTV.net Pornstar
+#DESCRIPTION AdultIPTV.net Pornstar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/pov.m3u8:AdultIPTV.net POV
+#DESCRIPTION AdultIPTV.net POV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/rough.m3u8:AdultIPTV.net Rough
+#DESCRIPTION AdultIPTV.net Rough
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/russian.m3u8:AdultIPTV.net Russian
+#DESCRIPTION AdultIPTV.net Russian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/teen.m3u8:AdultIPTV.net Teen
+#DESCRIPTION AdultIPTV.net Teen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/threesome.m3u8:AdultIPTV.net Threesome
+#DESCRIPTION AdultIPTV.net Threesome
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigass.m3u8:RedTraffic Big Ass
+#DESCRIPTION RedTraffic Big Ass
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigdick.m3u8:RedTraffic Big Dick
+#DESCRIPTION RedTraffic Big Dick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigtits.m3u8:RedTraffic Big Tits
+#DESCRIPTION RedTraffic Big Tits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/blowjob.m3u8:RedTraffic Blowjob
+#DESCRIPTION RedTraffic Blowjob
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/cuckold.m3u8:RedTraffic Cuckold
+#DESCRIPTION RedTraffic Cuckold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/fetish.m3u8:RedTraffic Fetish
+#DESCRIPTION RedTraffic Fetish
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.net/gangbang.m3u8:RedTraffic Gangbang
+#DESCRIPTION RedTraffic Gangbang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/hardcore.m3u8:RedTraffic Hardcore
+#DESCRIPTION RedTraffic Hardcore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/interracial.m3u8:RedTraffic Interracial
+#DESCRIPTION RedTraffic Interracial
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/latina.m3u8:RedTraffic Latina
+#DESCRIPTION RedTraffic Latina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/lesbian.m3u8:RedTraffic Lesbian
+#DESCRIPTION RedTraffic Lesbian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/milf.m3u8:RedTraffic Milf
+#DESCRIPTION RedTraffic Milf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/pornstar.m3u8:RedTraffic Pornstars
+#DESCRIPTION RedTraffic Pornstars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/pov.m3u8:RedTraffic POV
+#DESCRIPTION RedTraffic POV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/russian.m3u8:RedTraffic Russian
+#DESCRIPTION RedTraffic Russian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/teen.m3u8:RedTraffic Teen
+#DESCRIPTION RedTraffic Teen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/threesome.m3u8:RedTraffic Threesome
+#DESCRIPTION RedTraffic Threesome
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.net/woman.m3u8:RedTraffic Woman
+#DESCRIPTION RedTraffic Woman
+#SERVICE 1:64:4F3:0:0:0:0:0:0:0::*** ciefpsettings ***
+#DESCRIPTION *** ciefpsettings ***
